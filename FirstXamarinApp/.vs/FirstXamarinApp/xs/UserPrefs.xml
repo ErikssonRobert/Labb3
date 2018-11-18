@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F5D0C0B6-E71D-40E9-9345-1D2E228E0E76}|Default">
+  <MonoDevelop.Ide.ItemProperties.FirstXamarinApp AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstXamarinApp/MainActivity.cs">
+    <Files>
+      <File FileName="FirstXamarinApp/MainActivity.cs" Line="53" Column="14" />
+      <File FileName="FirstXamarinApp/Resources/values/Strings.xml" Line="7" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
